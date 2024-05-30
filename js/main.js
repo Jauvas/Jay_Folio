@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Aaron Joseph Yiga.", "A Designer.", "A Developer.", "A Freelancer."],
+      strings: ["Aaron Joseph Yiga.", "A Designer.", "A Developer."],
       typeSpeed: 100,
       loop: true,
     });
