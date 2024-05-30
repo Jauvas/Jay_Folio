@@ -50,7 +50,7 @@ a:hover {
 }
 
 a:hover, a:focus {
-  color: #b8a07e;
+  color: white;
   text-decoration: underline;
 }
 
@@ -223,7 +223,7 @@ nav ul li a {
 }
 
 .active {
-  color: black;
+  color: white;
 }
 
 /*----------------------------------------------------------------------------------*/
